@@ -299,3 +299,28 @@
   width:55px;
   white-space:nowrap;
 }
+#u26 {
+  position:absolute;
+  left:363px;
+  top:410px;
+  width:260px;
+  height:90px;
+  font-family:'Broadway Bold Oblique', 'Broadway';
+  font-weight:700;
+  font-style:oblique;
+  font-size:20px;
+}
+#u26_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:260px;
+  height:90px;
+}
+#u27 {
+  position:absolute;
+  left:2px;
+  top:34px;
+  width:256px;
+  word-wrap:break-word;
+}

@@ -14,29 +14,33 @@
 }
 #u0 {
   position:absolute;
-  left:148px;
-  top:160px;
-  width:294px;
-  height:28px;
+  left:210px;
+  top:120px;
+  width:544px;
+  height:39px;
+  font-family:'Copperplate Gothic Bold', 'Copperplate Gothic';
+  font-weight:700;
+  font-style:normal;
+  font-size:36px;
 }
 #u0_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:294px;
-  height:28px;
+  width:544px;
+  height:39px;
 }
 #u1 {
   position:absolute;
   left:0px;
   top:0px;
-  width:294px;
+  width:544px;
   white-space:nowrap;
 }
 #u2 {
   position:absolute;
-  left:128px;
-  top:282px;
+  left:100px;
+  top:202px;
   width:267px;
   height:28px;
 }
@@ -56,22 +60,13 @@
 }
 #u6 {
   position:absolute;
-  left:100px;
-  top:350px;
-  width:730px;
-  height:90px;
-  overflow:hidden;
+  left:90px;
+  top:240px;
 }
 #u6_state0 {
-  position:absolute;
+  position:relative;
   left:0px;
   top:0px;
-  width:730px;
-  height:90px;
-  -ms-overflow-x:hidden;
-  overflow-x:hidden;
-  -ms-overflow-y:hidden;
-  overflow-y:hidden;
   background-image:none;
 }
 #u6_state0_content {
